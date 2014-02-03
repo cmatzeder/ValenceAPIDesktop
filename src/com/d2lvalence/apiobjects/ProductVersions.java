@@ -12,7 +12,7 @@ public class ProductVersions {
     }
 
     public String getProductCode() {
-            return productCode;
+        return productCode;
     }
 
     public void setProductCode(String productCode) {
